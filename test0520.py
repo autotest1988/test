@@ -92,6 +92,6 @@ if __name__ == '__main__':
 
         from selenium.common import exceptions
 
-        d = webdriver.Chrome()
-        d.get("http://www.baidu.com")
-        d.find_element(By.ID, 'kw').send_keys('python')
+        # d = webdriver.Chrome()
+        # d.get("http://www.baidu.com")
+        # d.find_element(By.ID, 'kw').send_keys('python')
