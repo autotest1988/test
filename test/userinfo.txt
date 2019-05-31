@@ -1,2 +1,0 @@
-username=test@163.com  pwd=abc@123456
-username=haha@qq.com  pwd=test123456
